@@ -99,5 +99,8 @@ nav {
     justify-content: center;
     flex-wrap: wrap;
 }
-
+body {
+    height: 100%;
+    width: 100%;
+}
 /* gallery end */
