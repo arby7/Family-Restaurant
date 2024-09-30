@@ -194,3 +194,7 @@ aside.aside button:hover {
     color: #fff;
     text-decoration: none;
 }
+body {
+    height: 100%;
+    width: 100%;
+}
